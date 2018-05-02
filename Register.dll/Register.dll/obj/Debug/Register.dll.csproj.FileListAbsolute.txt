@@ -1,0 +1,14 @@
+E:\knowledge\C#\Projects\Register.dll\Register.dll\bin\Debug\Register.dll.dll
+E:\knowledge\C#\Projects\Register.dll\Register.dll\bin\Debug\Register.dll.pdb
+E:\knowledge\C#\Projects\Register.dll\Register.dll\obj\Debug\Register.dll.dll
+E:\knowledge\C#\Projects\Register.dll\Register.dll\obj\Debug\Register.dll.pdb
+D:\WindowProjects\Register.dll\Register.dll\bin\Debug\Register.dll.dll
+D:\WindowProjects\Register.dll\Register.dll\bin\Debug\Register.dll.pdb
+D:\WindowProjects\Register.dll\Register.dll\obj\Debug\Register.dll.dll
+D:\WindowProjects\Register.dll\Register.dll\obj\Debug\Register.dll.pdb
+D:\WindowProjects\Register.dll\Register.dll\obj\Debug\Register.dll.csprojResolveAssemblyReference.cache
+H:\My WorkShop\Dot Net\C#.NET\WindowProjects\Register.dll\Register.dll\bin\Debug\Register.dll.dll
+H:\My WorkShop\Dot Net\C#.NET\WindowProjects\Register.dll\Register.dll\bin\Debug\Register.dll.pdb
+H:\My WorkShop\Dot Net\C#.NET\WindowProjects\Register.dll\Register.dll\obj\Debug\Register.dll.csprojResolveAssemblyReference.cache
+H:\My WorkShop\Dot Net\C#.NET\WindowProjects\Register.dll\Register.dll\obj\Debug\Register.dll.dll
+H:\My WorkShop\Dot Net\C#.NET\WindowProjects\Register.dll\Register.dll\obj\Debug\Register.dll.pdb
